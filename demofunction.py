@@ -8,4 +8,6 @@ def count_words(s: str) -> int:
 
 
 s = "Python: easy, powerful, and flexible!"
+m = "This is another test file 2025"
+print(count_words(m))
 print(count_words(s))
